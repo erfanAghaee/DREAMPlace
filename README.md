@@ -627,3 +627,12 @@ Our modified version can be downloaded from [here](https://www.dropbox.com/scl/f
 `*` denotes divergence or legalization failure. 
 Note that if you observe divergence or legalization errors in the log, then the results may not be representative. 
 
+
+# Docker clean up
+- docker image prune
+- docker container prune
+- docker volume prune
+- docker network prune
+## Docker prune everything:
+  - docker system prune
+
