@@ -14,7 +14,8 @@ RUN apt-get update \
         && apt-get install -y \
             flex \
             libcairo2-dev \
-            libboost-all-dev 
+            libboost-all-dev \
+            vim git
 
 
 # Installs system dependencies from conda.

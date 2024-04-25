@@ -610,7 +610,7 @@ Our modified version can be downloaded from [here](https://www.dropbox.com/scl/f
     <td>903.6 </td>
     <td>184.1 </td>
     <td>1578</td>
-    <td>903.2 </td>
+    <td>903.2 </td>s
     <td>235.1</td>
   </tr>
   <tr>
